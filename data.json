@@ -1,0 +1,722 @@
+[
+    {
+        "clave" : "1",
+        "descripcion" : "Mayonesa",
+        "precio" : 20,
+        "clasificacion" : "Aderezos",
+        "cantidad" : 3,
+        "exMin" : 1,
+        "exMax" : 10
+    },
+    {
+        "clave" : "2",
+        "descripcion" : "Catsup",
+        "precio" : 15,
+        "clasificacion" : "Aderezos",
+        "cantidad" : 10,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "3",
+        "descripcion" : "Mostaza",
+        "precio" : 20,
+        "clasificacion" : "Aderezos",
+        "cantidad" : 1,
+        "exMin" : 1,
+        "exMax" : 5
+    },
+    {
+        "clave" : "4",
+        "descripcion" : "Salsa valentina",
+        "precio" : 10,
+        "clasificacion" : "Aderezos",
+        "cantidad" : 15,
+        "exMin" : 10,
+        "exMax" : 25
+    },
+    {
+        "clave" : "5",
+        "descripcion" : "Aderezo ranch",
+        "precio" : 23,
+        "clasificacion" : "Aderezos",
+        "cantidad" : 5,
+        "exMin" : 2,
+        "exMax" : 7
+    },
+    {
+        "clave" : "6",
+        "descripcion" : "Salsa BQQ",
+        "precio" : 30,
+        "clasificacion" : "Aderezos",
+        "cantidad" : 7,
+        "exMin" : 2,
+        "exMax" : 10
+    },
+    {
+        "clave" : "7",
+        "descripcion" : "Verduras en lata",
+        "precio" : 15,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 6,
+        "exMin" : 5,
+        "exMax" : 10
+    },
+    {
+        "clave" : "8",
+        "descripcion" : "Sardinas",
+        "precio" : 20,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 2,
+        "exMin" : 1,
+        "exMax" : 5
+    },
+    {
+        "clave" : "9",
+        "descripcion" : "Atun en agua",
+        "precio" : 15,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 30
+    },
+    {
+        "clave" : "10",
+        "descripcion" : "Atun en aceite",
+        "precio" : 15,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 30
+    },
+    {
+        "clave" : "11",
+        "descripcion" : "Sopa en lata",
+        "precio" : 25,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 10,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "12",
+        "descripcion" : "Chile chipotle",
+        "precio" : 7,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 5,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "13",
+        "descripcion" : "Chile jalapeño",
+        "precio" : 7,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 9,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "14",
+        "descripcion" : "Salsa de tomate",
+        "precio" : 13,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 5,
+        "exMin" : 4,
+        "exMax" : 13
+    },
+    {
+        "clave" : "15",
+        "descripcion" : "Elote en lata",
+        "precio" : 15,
+        "clasificacion" : "Enlatados",
+        "cantidad" : 4,
+        "exMin" : 2,
+        "exMax" : 11
+    },
+    {
+        "clave" : "16",
+        "descripcion" : "Cocacola 1lt",
+        "precio" : 20,
+        "clasificacion" : "Bebidas",
+        "cantidad" : 25,
+        "exMin" : 20,
+        "exMax" : 50
+    },
+    {
+        "clave" : "17",
+        "descripcion" : "Arizona",
+        "precio" : 15,
+        "clasificacion" : "Bebidas",
+        "cantidad" : 7,
+        "exMin" : 5,
+        "exMax" : 10
+    },
+    {
+        "clave" : "18",
+        "descripcion" : "Pepsi",
+        "precio" : 14,
+        "clasificacion" : "Bebidas",
+        "cantidad" : 4,
+        "exMin" : 3,
+        "exMax" : 7
+    },
+    {
+        "clave" : "19",
+        "descripcion" : "Sprite",
+        "precio" : 14,
+        "clasificacion" : "Bebidas",
+        "cantidad" : 5,
+        "exMin" : 3,
+        "exMax" : 15
+    },
+    {
+        "clave" : "20",
+        "descripcion" : "Fuze tea",
+        "precio" : 15,
+        "clasificacion" : "Bebidas",
+        "cantidad" : 8,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "21",
+        "descripcion" : "fanta",
+        "precio" : 20,
+        "clasificacion" : "Bebidas",
+        "cantidad" : 3,
+        "exMin" : 1,
+        "exMax" : 6
+    },
+    {
+        "clave" : "22",
+        "descripcion" : "Jarrilitos 1lt",
+        "precio" : 20,
+        "clasificacion" : "Bebidas",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 30
+    },
+    {
+        "clave" : "23",
+        "descripcion" : "Doritos rojos",
+        "precio" : 10,
+        "clasificacion" : "Frituras",
+        "cantidad" : 30,
+        "exMin" : 20,
+        "exMax" : 50
+    },
+    {
+        "clave" : "24",
+        "descripcion" : "Ruffles",
+        "precio" : 10,
+        "clasificacion" : "Frituras",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "25",
+        "descripcion" : "Sabritas",
+        "precio" : 10,
+        "clasificacion" : "Frituras",
+        "cantidad" : 30,
+        "exMin" : 20,
+        "exMax" : 50
+    },
+    {
+        "clave" : "26",
+        "descripcion" : "Doritos negros",
+        "precio" : 10,
+        "clasificacion" : "Frituras",
+        "cantidad" : 15,
+        "exMin" : 10,
+        "exMax" : 30
+    },
+    {
+        "clave" : "27",
+        "descripcion" : "Sabritas adobadas",
+        "precio" : 10,
+        "clasificacion" : "Frituras",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "28",
+        "descripcion" : "Cheetos verdes",
+        "precio" : 7,
+        "clasificacion" : "Frituras",
+        "cantidad" : 30,
+        "exMin" : 20,
+        "exMax" : 50
+    },
+    {
+        "clave" : "29",
+        "descripcion" : "Cheetos naranjas",
+        "precio" : 7,
+        "clasificacion" : "Frituras",
+        "cantidad" : 25,
+        "exMin" : 20,
+        "exMax" : 50
+    },
+    {
+        "clave" : "30",
+        "descripcion" : "Cheetos azules",
+        "precio" : 7,
+        "clasificacion" : "Frituras",
+        "cantidad" : 15,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "31",
+        "descripcion" : "Cheetos morados",
+        "precio" : 7,
+        "clasificacion" : "Frituras",
+        "cantidad" : 15,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "32",
+        "descripcion" : "Cheetos amarillos",
+        "precio" : 7,
+        "clasificacion" : "Frituras",
+        "cantidad" : 30,
+        "exMin" : 20,
+        "exMax" : 50
+    },
+    {
+        "clave" : "33",
+        "descripcion" : "Cheetos palomitas",
+        "precio" : 7,
+        "clasificacion" : "Frituras",
+        "cantidad" : 14,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "34",
+        "descripcion" : "Chips amarillas",
+        "precio" : 14,
+        "clasificacion" : "Frituras",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "35",
+        "descripcion" : "Chips moradas",
+        "precio" : 14,
+        "clasificacion" : "Frituras",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "36",
+        "descripcion" : "Chips verdes",
+        "precio" : 14,
+        "clasificacion" : "Frituras",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "37",
+        "descripcion" : "Runners",
+        "precio" : 9,
+        "clasificacion" : "Frituras",
+        "cantidad" : 20,
+        "exMin" : 10,
+        "exMax" : 40
+    },
+    {
+        "clave" : "38",
+        "descripcion" : "Donitas blancas",
+        "precio" : 16,
+        "clasificacion" : "Dulces",
+        "cantidad" : 8,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "39",
+        "descripcion" : "Donitas con azucar",
+        "precio" : 16,
+        "clasificacion" : "Dulces",
+        "cantidad" : 8,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "40",
+        "descripcion" : "Mantecadas",
+        "precio" : 20,
+        "clasificacion" : "Dulces",
+        "cantidad" : 12,
+        "exMin" : 10,
+        "exMax" : 20
+    },
+    {
+        "clave" : "41",
+        "descripcion" : "Mantecadas con nuez",
+        "precio" : 19,
+        "clasificacion" : "Dulces",
+        "cantidad" : 8,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "42",
+        "descripcion" : "Madalenas",
+        "precio" : 15,
+        "clasificacion" : "Dulces",
+        "cantidad" : 8,
+        "exMin" : 5,
+        "exMax" : 15
+    },
+    {
+        "clave" : "43",
+        "descripcion" : "Conchas",
+        "precio" : 5,
+        "clasificacion" : "Dulces",
+        "cantidad" : 20,
+        "exMin" : 5,
+        "exMax" : 30
+    },
+    {
+        "clave" : "44",
+        "descripcion" : "Rebanadas",
+        "precio" : 15,
+        "clasificacion" : "Dulces",
+        "cantidad" : 5,
+        "exMin" : 2,
+        "exMax" : 10
+    },
+    {
+        "clave" : "45",
+        "descripcion" : "Hotkis",
+        "precio" : 9,
+        "clasificacion" : "Dulces",
+        "cantidad" : 5,
+        "exMin" : 2,
+        "exMax" : 10
+    },
+    {
+        "clave" : "46",
+        "descripcion" : "Mazapan",
+        "precio" : 5,
+        "clasificacion" : "Dulces",
+        "cantidad" : 25,
+        "exMin" : 5,
+        "exMax" : 50
+    },
+    {
+        "clave" : "47",
+        "descripcion" : "chicles bubbaloo",
+        "precio" : 1,
+        "clasificacion" : "Dulces",
+        "cantidad" : 60,
+        "exMin" : 10,
+        "exMax" : 100
+    },
+    {
+        "clave" : "48",
+        "descripcion" : "Chicles canels",
+        "precio" : 0.5,
+        "clasificacion" : "Dulces",
+        "cantidad" : 25,
+        "exMin" : 10,
+        "exMax" : 100
+    },
+    {
+        "clave" : "49",
+        "descripcion" : "Duvalin",
+        "precio" : 5,
+        "clasificacion" : "Dulces",
+        "cantidad" : 10,
+        "exMin" : 5,
+        "exMax" : 50
+    },
+    {
+        "clave" : "50",
+        "descripcion" : "Pulparindo",
+        "precio" : 4,
+        "clasificacion" : "Dulces",
+        "cantidad" : 25,
+        "exMin" : 5,
+        "exMax" : 50
+    },
+    {
+        "clave" : "51",
+        "descripcion" : "Pulparindo rojo",
+        "precio" : 5,
+        "clasificacion" : "Dulces",
+        "cantidad" : 20,
+        "exMin" : 5,
+        "exMax" : 50
+    },
+    {
+        "clave" : "52",
+        "descripcion" : "Paleta payaso",
+        "precio" : 15,
+        "clasificacion" : "Dulces",
+        "cantidad" : 5,
+        "exMin" : 5,
+        "exMax" : 20
+    },
+    {
+        "clave" : "53",
+        "descripcion" : "Paleta de manita",
+        "precio" : 2,
+        "clasificacion" : "Dulces",
+        "cantidad" : 30,
+        "exMin" : 10,
+        "exMax" : 60
+    },
+    {
+        "clave" : "54",
+        "descripcion" : "Paleta de cerveza",
+        "precio" : 2,
+        "clasificacion" : "Dulces",
+        "cantidad" : 23,
+        "exMin" : 10,
+        "exMax" : 50
+    },
+    {
+        "clave" : "55",
+        "descripcion" : "Paleta de elote",
+        "precio" : 2,
+        "clasificacion" : "Dulces",
+        "cantidad" : 22,
+        "exMin" : 10,
+        "exMax" : 70
+    },
+    {
+        "clave" : "56",
+        "descripcion" : "Paleta de la rosa",
+        "precio" : 5,
+        "clasificacion" : "Dulces",
+        "cantidad" : 30,
+        "exMin" : 15,
+        "exMax" : 100
+    },
+    {
+        "clave" : "57",
+        "descripcion" : "Jamoncillos",
+        "precio" : 5,
+        "clasificacion" : "Dulces",
+        "cantidad" : 20,
+        "exMin" : 5,
+        "exMax" : 50
+    },
+    {
+        "clave" : "58",
+        "descripcion" : "Cebolla",
+        "precio" : 10,
+        "clasificacion" : "Verduras",
+        "cantidad" : 15,
+        "exMin" : 5,
+        "exMax" : 25
+    },
+    {
+        "clave" : "59",
+        "descripcion" : "Cabezas de ajo",
+        "precio" : 10,
+        "clasificacion" : "Verduras",
+        "cantidad" : 15,
+        "exMin" : 5,
+        "exMax" : 25
+    },
+    {
+        "clave" : "60",
+        "descripcion" : "Tomate",
+        "precio" : 15,
+        "clasificacion" : "Verduras",
+        "cantidad" : 30,
+        "exMin" : 10,
+        "exMax" : 70
+    },
+    {
+        "clave" : "61",
+        "descripcion" : "Lechuga",
+        "precio" : 10,
+        "clasificacion" : "Verduras",
+        "cantidad" : 15,
+        "exMin" : 5,
+        "exMax" : 25
+    },
+    {
+        "clave" : "62",
+        "descripcion" : "Cilantro",
+        "precio" : 7,
+        "clasificacion" : "Verduras",
+        "cantidad" : 15,
+        "exMin" : 5,
+        "exMax" : 25
+    },
+    {
+        "clave" : "63",
+        "descripcion" : "Veladora para seños",
+        "precio" : 10,
+        "clasificacion" : "Ariculos para el hogar",
+        "cantidad" : 7,
+        "exMin" : 5,
+        "exMax" : 10
+    },
+    {
+        "clave" : "64",
+        "descripcion" : "Suavitel",
+        "precio" : 25,
+        "clasificacion" : "Ariculos para el hogar",
+        "cantidad" : 4,
+        "exMin" : 3,
+        "exMax" : 7
+    },
+    {
+        "clave" : "65",
+        "descripcion" : "Fabuloso",
+        "precio" : 20,
+        "clasificacion" : "Ariculos para el hogar",
+        "cantidad" : 5,
+        "exMin" : 5,
+        "exMax" : 10
+    },
+    {
+        "clave" : "66",
+        "descripcion" : "Pinol",
+        "precio" : 20,
+        "clasificacion" : "Ariculos para el hogar",
+        "cantidad" : 5,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "67",
+        "descripcion" : "Cloro",
+        "precio" : 20,
+        "clasificacion" : "Ariculos para el hogar",
+        "cantidad" : 3,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "68",
+        "descripcion" : "Papel",
+        "precio" : 10,
+        "clasificacion" : "Ariculos para el hogar",
+        "cantidad" : 10,
+        "exMin" : 5,
+        "exMax" : 20
+    },
+    {
+        "clave" : "69",
+        "descripcion" : "Servilletas",
+        "precio" : 9,
+        "clasificacion" : "Ariculos para el hogar",
+        "cantidad" : 7,
+        "exMin" : 5,
+        "exMax" : 20
+    },
+    {
+        "clave" : "70",
+        "descripcion" : "Desodrante",
+        "precio" : 15,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 5,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "71",
+        "descripcion" : "Toallas sanitarias",
+        "precio" : 25,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 5,
+        "exMin" : 3,
+        "exMax" : 9
+    },
+    {
+        "clave" : "72",
+        "descripcion" : "Jabon de tocador",
+        "precio" : 7,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 7,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "73",
+        "descripcion" : "shampoo",
+        "precio" : 9,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 4,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "74",
+        "descripcion" : "Acondicionador",
+        "precio" : 15,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 6,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "75",
+        "descripcion" : "Cepillo de dientes",
+        "precio" : 10,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 7,
+        "exMin" : 3,
+        "exMax" : 12
+    },
+    {
+        "clave" : "76",
+        "descripcion" : "Quita esmalte",
+        "precio" : 10,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 2,
+        "exMin" : 1,
+        "exMax" : 5
+    },
+    {
+        "clave" : "77",
+        "descripcion" : "Toallitas humedas",
+        "precio" : 25,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 5,
+        "exMin" : 3,
+        "exMax" : 10
+    },
+    {
+        "clave" : "78",
+        "descripcion" : "Shampoo para bebes",
+        "precio" : 39,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 2,
+        "exMin" : 1,
+        "exMax" : 5
+    },
+    {
+        "clave" : "79",
+        "descripcion" : "Crema para el cuerpo",
+        "precio" : 20,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 3,
+        "exMin" : 2,
+        "exMax" : 5
+    },
+    {
+        "clave" : "80",
+        "descripcion" : "Jabon zote",
+        "precio" : 10,
+        "clasificacion" : "Ariculos de uso personal",
+        "cantidad" : 5,
+        "exMin" : 3,
+        "exMax" : 10
+    }
+]
